@@ -94,6 +94,12 @@ npm run dev
 
 Visit `http://localhost:3000` to see the application.
 
+## 📚 Documentation
+
+- [Admin Dashboard](./docs/admin-dashboard.md) - Complete admin features and analytics
+- [Data Seeding](./docs/data-seeding.md) - Fake data generation for development
+- [Production Deployment](./docs/production-deployment.md) - Launch preparation guide
+
 ## 🧪 Development
 
 ### Database Management
